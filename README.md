@@ -5,5 +5,5 @@
 
 Sample usage:
 ```
-docker run -e POSTGRES_PASSWORD=sakila -p 5432:5432 -d postgres-sakila
+docker run -e POSTGRES_PASSWORD=sakila -p 5432:5432 -d frantiseks/postgres-sakila
 ```
